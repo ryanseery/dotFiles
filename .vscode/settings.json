@@ -1,0 +1,11 @@
+// change color per project
+{
+  "workbench.colorCustomizations": {
+    "titleBar.activeForeground": "#fff",
+    "titleBar.activeBackground": "#519839",
+    "titleBar.inactiveBackground": "#519839",
+    "activityBarBadge.background": "#fff",
+    "activityBarBadge.foreground": "#000",
+  },
+  "eslint.autoFixOnSave": true
+}
